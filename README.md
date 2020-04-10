@@ -10,7 +10,7 @@ Theming with ThemeKit is very similar to jailbroken iOS. Each theme is in a sing
 
 Sample theme layout
 
-└-  Satine.bundle
+```└-  Satine.bundle
    
     └- Info.plist
    
@@ -38,7 +38,7 @@ Sample theme layout
     
     └- com.tinyspeck.slackmacgap
     
-    └- com.apple.Terminal
+    └- com.apple.Terminal```
 
 We suggest having all Apple icons themed when using a theme, this is because the previews are loaded from a selected theme, true icon randomization will come later.
 

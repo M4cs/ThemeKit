@@ -12,33 +12,33 @@ Sample theme layout
 
 └-  Satine.bundle
    
-   └- Info.plist
+      └- Info.plist
    
-   └- com.apple.AddressBook
+      └- com.apple.AddressBook
+       
+      └- com.apple.AppStore
     
-   └- com.apple.AppStore
+      └- com.apple.FaceTime
     
-   └- com.apple.FaceTime
+      └- com.apple.finder
     
-   └- com.apple.finder
-    
-   └- com.apple.iChat
+      └- com.apple.iChat
    
-   └- com.apple.mail
+      └- com.apple.mail
     
-   └- com.apple.Music
+      └- com.apple.Music
     
-   └- com.apple.Preview
+      └- com.apple.Preview
     
-   └- com.apple.systempreferences
+      └- com.apple.systempreferences
     
-   └- com.brave.Browser
+      └- com.brave.Browser
     
-   └- com.microsoft.VSCode
+      └- com.microsoft.VSCode
     
-   └- com.tinyspeck.slackmacgap
+      └- com.tinyspeck.slackmacgap
    
-   └- com.apple.Terminal``
+      └- com.apple.Terminal``
 
 We suggest having all Apple icons themed when using a theme, this is because the previews are loaded from a selected theme, true icon randomization will come later.
 

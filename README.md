@@ -11,7 +11,9 @@ Theming with ThemeKit is very similar to jailbroken iOS. Each theme is in a sing
 Sample theme layout
 
 └- Satine.bundle
+   
    └- Info.plist
+   
    └- com.apple.AddressBook
    └- com.apple.AppStore
    └- com.apple.FaceTime

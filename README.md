@@ -6,6 +6,10 @@
 
 Theming with ThemeKit is very similar to jailbroken iOS. Each theme is in a single .bundle file. Each theme icon must have the exact bundle identifier as the target app. A list of default macOS icons bundle identifiers are below. An Info.plist is also needed, similar to iOS with a theme name, and bundle identifier of its own. This will allow further functionality, such as author info or social media links.
 
+###
+
+[Download](https://github.com/MTACS/ThemeKit/releases/download/v1.0/ThemeKit.zip)
+
 ### 
 
 Sample theme layout

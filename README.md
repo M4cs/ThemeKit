@@ -10,41 +10,6 @@
 
 [Download](https://github.com/MTACS/ThemeKit/releases/download/v1.0/ThemeKit.zip)
 
-### 
-
-Sample theme layout
-
-```└  Satine.bundle```
-   
-      └ Info.plist
-   
-      └ com.apple.AddressBook
-       
-      └ com.apple.AppStore
-    
-      └ com.apple.FaceTime
-    
-      └ com.apple.finder
-    
-      └ com.apple.iChat
-   
-      └ com.apple.mail
-    
-      └ com.apple.Music
-    
-      └ com.apple.Preview
-    
-      └ com.apple.systempreferences
-    
-      └ com.brave.Browser
-    
-      └ com.microsoft.VSCode
-    
-      └ com.tinyspeck.slackmacgap
-   
-      └ com.apple.Terminal
-
-We suggest having all Apple icons themed when using a theme, this is because the previews are loaded from a selected theme, true icon randomization will come later.
 
 ###
 

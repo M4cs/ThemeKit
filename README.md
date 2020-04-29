@@ -10,6 +10,9 @@
 
 [Download](https://github.com/MTACS/ThemeKit/releases/download/v1.0/ThemeKit.zip)
 
+### 
+
+Check out [zTheme](https://github.com/JosephShenton/zTheme) a tool to help convert iOS themes to macOS
 
 ###
 

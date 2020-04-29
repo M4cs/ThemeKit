@@ -14,10 +14,6 @@
 
 [FAQ]()
 
-##
-
-Check out [zTheme](https://github.com/JosephShenton/zTheme) a tool to help convert iOS themes to macOS
-
 ###
 
 ThemeKit requires SIP (System Integrity Protection) to be disabled to theme icons. This is because in newest macOS versions, certain files cannot be modified. ThemeKit uses methods built into AppKit to change icons. Removing a theme resets icons to stock macOS. 
@@ -34,3 +30,6 @@ ThemeKit is considered an experiment, and is provided as is. This does not rely 
 
 Icons in screenshots are [Glacier](https://glaciericons.com/) with some of my own icons in that style. Banner space image found [here](https://www.spacetelescope.org/images/heic1105a/)
 
+##
+
+Check out [zTheme](https://github.com/JosephShenton/zTheme) a tool to help convert iOS themes to macOS

@@ -12,7 +12,7 @@
 
 ##
 
-[FAQ]()
+[FAQ](https://github.com/MTACS/ThemeKit/wiki/FAQ)
 
 ###
 

@@ -1,6 +1,6 @@
 # ThemeKit
 
-![banner](https://github.com/MTACS/ThemeKit/blob/master/images/banner.png)
+![banner](https://github.com/MTACS/ThemeKit/blob/master/images/macbook.png)
 
 ## A unified macOS theming platform
 
